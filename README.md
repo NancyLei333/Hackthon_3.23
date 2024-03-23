@@ -1,7 +1,7 @@
 # Better Colgate On-Demand
 
 Colgate is in the middle of nowhere so it is really hard to get around with limited
- transportation. The on demand shuttle service is provided to go to airport and 
+ transportation. The on demand shuttle service is provided to go to airports and 
  train stations, but it is really hard to track the availability of shuttles,
  number of passengers and estimated price. It is also very hard to change any 
  information or communicate because they don't have a platform and mainly rely on 
@@ -26,7 +26,7 @@ existing trips, and book new reservations. Upon accessing the application,
 users can:
 
 - Browse the "Shuttle Schedule" to find upcoming trips.
-- Click "Join" on a desired trip, leading to a pre-filled booking form with trip details.
+- Click "Join" on a current trip, no need to create a new reservation when a close trip exists, leading to a pre-filled booking form with trip details.
 - Use the "Book Now" feature to create new reservations with custom itineraries.
 - Manage their bookings through the "Account" section, where past trips and user details are displayed.
 
