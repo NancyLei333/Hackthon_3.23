@@ -8,7 +8,7 @@ Colgate is in the middle of nowhere so it is really hard to get around with limi
  email and phone calls. 
 
  We want to create a web app that helps with the transparency of this and make it
- easier to navigate the trip detail and make reservations.
+ easier to navigate the trip details and make reservations.
 
  Ideally this will be utilized by Colgate on-demand scheduling to ensure more 
  accessible and convenient shuttle services and better 
