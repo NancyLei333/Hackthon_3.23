@@ -1,4 +1,4 @@
-### Better Colgate On-Demand
+# Better Colgate On-Demand
 
 Colgate is in the middle of nowhere so it is really hard to get around with limited
  transportation. The on demand shuttle service is provided to go to airport and 
@@ -14,7 +14,10 @@ Colgate is in the middle of nowhere so it is really hard to get around with limi
  accessible and convenient shuttle services and better 
  user experience. 
 
-# How the Application Works
+### Purpose & Motivation
+Our motivation for developing Colgate On-Demand is the need to improve accessibility and manageability of transportation services at Colgate. We aimed to create a user-friendly platform that would streamline the booking process, offer real-time updates on shuttle schedules, and accommodate the dynamic transportation needs of our community.
+
+### How the Application Works
 Colgate On-Demand allows users to view available shuttle services, join 
 existing trips, and book new reservations. Upon accessing the application, 
 users can:
@@ -24,6 +27,6 @@ Click "Join" on a desired trip, leading to a pre-filled booking form with trip d
 Use the "Book Now" feature to create new reservations with custom itineraries.
 Manage their bookings through the "Account" section, where past trips and user details are displayed.
 
-# Difficulty: 
+### Difficulty: 
 The main challenge we experienced is that with the limitation of time, we are not 
 able to integrate real-time scheduling data with the application.
