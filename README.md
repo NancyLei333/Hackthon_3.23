@@ -35,5 +35,8 @@ users can:
 able to integrate real-time scheduling data with the application.
 - We realized that we lack much experience at the backend to store and retrieve data, so we put our focus more on illustrating the interactive user experiences in the "Prototype" track.
 
+### Go-to-Market Strategy
+Colgate On-Demand will be launched through the university's web portal, making it readily accessible to the campus community. Marketing strategies include email campaigns, informational booths, and collaboration with student organizations. The application is designed to be scalable, with the potential to expand services based on user demand and feedback, ensuring it remains a vital resource for campus transportation.
+
 ### PitchDeck Video
 https://youtu.be/r2Y4rFvjw14
