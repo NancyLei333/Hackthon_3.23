@@ -33,4 +33,7 @@ users can:
 ### Difficulty: 
 - The main challenge we experienced is that with the limitation of time, we are not 
 able to integrate real-time scheduling data with the application.
-- We realized that we lack much experience at the backend to store and retrieve data, so we put our focus more on illustrating the interactive user experiences in the "Prototype" track. 
+- We realized that we lack much experience at the backend to store and retrieve data, so we put our focus more on illustrating the interactive user experiences in the "Prototype" track.
+
+### PitchDeck Video
+https://youtu.be/r2Y4rFvjw14
